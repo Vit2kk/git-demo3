@@ -52,6 +52,8 @@ In the shadows
 
 feature 1
 
+feature 2
+
 In the shadows
 I've been waiting
 
